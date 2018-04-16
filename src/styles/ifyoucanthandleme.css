@@ -1,0 +1,11 @@
+body {
+    background-color: #d7d7d5;
+    font-family: 'Roboto', sans-serif;
+}
+
+#giphyLogo {
+    /*background: url('../PoweredBy_200px-White_HorizText.png') left bottom no-repeat;*/
+    position: absolute;
+    bottom: 0;
+    width: 100px;
+}
